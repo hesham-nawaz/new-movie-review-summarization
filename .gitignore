@@ -1,8 +1,8 @@
 # Environment variables and API keys
 .env
 
-# Data files (if they're large)
-data/*.csv
+# Data files
+data/
 
 # Python-specific
 __pycache__/
